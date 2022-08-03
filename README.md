@@ -1,2 +1,6 @@
 # React-vs-VanillaJS
- Benchmark test
+✅ My Benchmark test. <br/>
+❌ React is 💩👎😁  <br/>
+✅ Additional test: https://rawgit.com/krausest/js-framework-benchmark/master/webdriver-ts-results/table.html <br/>
+🙈🎥
+[![Everything Is AWESOME](https://lh3.googleusercontent.com/KyR2ihBgJLICNbSSZ2AKh_cJ9mEuRkJcnk3BGCAp13bloEw-iVOhY4wj652OK6FzUNLQujhLvRm-xnsKp-O8T89IBsgTR7XI2isOU_wVNFCq18qDacNIFZDkoCnnm2rR4637KJ26tH1Pp33wo89b_cgngwos79X1eI4SYwcxvqtrtJIV7uVS8ar1e1LDmG6gcVoQlhJKM4n7sfuq4_agEhCKExvbK9oRgfpFa9NVJLKwQK7SHE0XHBsQtnLSBfS2ZbJPTBcP-NC2YXN2r9nqscDHCVzUkh0b5E2WFsYDPmIArQD3ysC_yZuz58CYCL4sSrxUT49wgCxB6G2_glJacFyT1wdzcB6YH7XHG5G5Bg-5VxEPtRVLTBd_D8aoZuedPApcl_tyTcHy03tyYKB8ffvSCSpPD9oVcOvLPpyCYSpirYnCkulHlEf5FEpHes1rnjH5fwrRSUTlLLd24OSYd157D3ch9cU3MJoxSlcHpbHIslb9o9-hBDXJ1XR277TgMEXKszzBJhTftuTHTV_6ffTT1pFSAJAwq2LKO-HLunxNijVN4-O2LeT3tPRRSv5a5mwc1jUoulTfmG1yGY7t0o_7a4mr41R5LsUSTDNx-p633cQVwniupxIQLG1VJkOx-2ji_LXGVz5bKdPWRX-iCZ6-bxIdejej3yRc0HuW34dGkq_65_QO4P5d-3RHWzlTSYkygp-EP0NTJFpuZzTNznRiNI2I_5IAe9lNRK10vDp4ynRtcIwkSWzuUNjK6A=w1094-h614-no?authuser=0)](https://www.youtube.com/watch?v=HyWYpM_S-2c "React for the Haters in 100 Seconds")
