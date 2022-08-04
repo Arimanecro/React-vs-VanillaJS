@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>React App</title>
+    <style>
+      .section {
+        display: flex;
+        justify-content: space-between;
+      }
+    </style>
+  </head>
+  <!-- <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script> -->
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <body>
+    <div id="wrapper" class="section">
+      <div id="root"></div>
+      <div>
+        <h2>Vanilla JS</h2>
+        <button id="add"></button>
+        <button id="prepend">Add to the top</button>
+        <button id="append">Add to the bottom</button>
+        <button id="update">Update random divs</button>
+        <div id="vanilla"></div>
+      </div>
+    </div>
+    <script src="./component.js" type="text/babel"></script>
+    <script type="module" src="./vanilla.js"></script>
+    <script type="module" src="./DOM-observer.js" async></script>
+  </body>
+</html>
